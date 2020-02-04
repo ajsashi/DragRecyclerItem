@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DragRecyclerItem</string>
+    <string name="From_current_location">From Current Location</string>
+    <string name="Keep_Start">Keep Start</string>
+    <string name="Keep_Start_And_End">Keep Start And End</string>
+    <string name="DistanceMatrixApi">AIzaSyCS7UEhyUGySSmxjjzAZXFDbZByx3C7yVw</string>
+</resources>
